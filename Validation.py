@@ -1,4 +1,4 @@
-import math
+
 import Racine
 
 print("*** VÉRIFICATION DU BON FONCTIONNEMENT DE LA MÉTHODE [mth1] LORS DU CALCUL D'UNE Racine CARRÉE ***")
